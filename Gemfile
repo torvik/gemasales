@@ -58,3 +58,15 @@ gem 'rails_admin'
 gem 'devise'
 
 gem 'cancancan'
+gem 'carrierwave'
+
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+
+gem 'rails_admin_rollincode', '~> 1.0'
+
+gem 'prawn-rails'
+# Gem para gerar os gráficos
+gem 'gruff'
+
+gem 'bootstrap-sass', '~> 3.3.7'
+
